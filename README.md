@@ -6,11 +6,11 @@ First download the repository.
 
 The folder contains mainly three sections,
 
-angular-country (Frontend) - developed using Angular
+ 1) angular-country (Frontend) - developed using Angular
 
-country (Backend) - developend using Spring Boot framework and H2 database
+ 2) country (Backend) - developend using Spring Boot framework and H2 database
 
-Project Screenshots - Screenshots of User Interfaces and h2 console login Interface
+ 3) Project Screenshots - Screenshots of User Interfaces and h2 console login Interface
 
 First open the project folder with Spring Tool Suite and dependencies that I have used in backend development are
 
